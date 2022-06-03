@@ -1,0 +1,1 @@
+This is readme file for projext 0x00-Hello_world.
